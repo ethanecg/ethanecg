@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-Im Ethane, a current student in programming at Cegep Edouard-Montpetit.
+I'm Ethane, a current programming student at Cégep Édouard-Montpetit.
 
 I code pretty much anything.
 
-Programming languages : C# and lua
+💻 Programming languages: C# and Lua
 
-Other types of languages : html, css
+💻 Other language types: HTML and CSS
 
-Main Application Types: Console, Desktop (WinForms), Embedded Game Mods (Isaac API)
+⚙️ Main application types: Console, Desktop (WinForms), Embedded Game Mods (Isaac API)
 
-Total repos : 
+🚀 Total repos (private and public): 30+
