@@ -1,7 +1,6 @@
 # Hi there 👋
 
-I'm Ethane, a current programming student at Cégep Édouard-Montpetit.
-I code pretty much anything.
+I'm Ethane, a current programming student at Cégep Édouard-Montpetit. I code pretty much anything.
 
 ## 💻 Languages I code with :
 <div align="left">
@@ -14,6 +13,9 @@ I code pretty much anything.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
-⚙️ Main application types: Console, Desktop (WinForms), Embedded Game Mods (Isaac API)
+## ⚙️ Main application types: 
+-Console
+-Desktop (WinForms)
 
-🚀 Total repos (private and public): 30+
+## 🚀 Total repos (private and public):
+-30+
